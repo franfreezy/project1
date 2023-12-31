@@ -1,0 +1,9 @@
+version: '24.0.7'
+services:
+      web:
+        build: .
+        command:  python /project1/manage.py runserver 0.0.0.0:8000
+        volumes:
+          - .:/project1
+        ports:
+          - 8000:8000
