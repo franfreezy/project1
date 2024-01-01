@@ -1,0 +1,14 @@
+
+body{
+    height: 100%;
+    width: 100%;
+    
+}
+.container1{
+    background-color: rgb(38, 38, 51);
+height: 100%;
+width: 100%;
+}
+.topbar{
+    display: inline-flex;
+}
