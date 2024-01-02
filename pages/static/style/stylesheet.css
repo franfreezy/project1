@@ -12,7 +12,7 @@ body{
     z-index: 0;
 }
 .container1{
-    background-color: blue;
+    background-color: rgb(240, 248, 255);
     top: 0;
     
     left: 0;
@@ -26,8 +26,8 @@ position: relative;
 .topbar{   
     top: 0;
     left: 0;
-    opacity: 0.3;
-   background-color: rgb(103, 103, 110);
+    opacity: 0.2;
+   
     display: inline-flex;
     z-index: 0;
     justify-content: space-between;
