@@ -11,6 +11,10 @@ body{
  
     z-index: 0;
 }
+.container{
+    min-height:100% ;
+    min-width: 100%;
+}
 .container1{
     background-color: rgb(240, 248, 255);
     top: 0;
